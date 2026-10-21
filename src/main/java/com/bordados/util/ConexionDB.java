@@ -9,7 +9,10 @@ public class ConexionDB {
     // ============================================================
     //  CONFIGURACIÓN — Cambia estos valores según tu servidor
     // ============================================================
-    private static final String URL      = "jdbc:mysql://localhost:3307/bordados_exodo?useSSL=false&serverTimezone=America/Guatemala&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
+    private static final String URL      = "jdbc:mysql://blse57ppyo0cmp1ywaes-mysql.services.clever-cloud.com:3306/blse57ppyo0cmp1ywaes?useSSL=true&serverTimezone=UTC&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
+private static final String USUARIO  = "u8zo98ngusdfl0w8";
+private static final String PASSWORD = "7fMSoyIPN1XANIFdldtf";
+useSSL=false&serverTimezone=America/Guatemala&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
     private static final String USUARIO  = "root";
     private static final String PASSWORD = "Arosario23$08";
 
